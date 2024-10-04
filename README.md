@@ -1,5 +1,15 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Maria Eduarda dos Santos Alves
 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+maria.santos.alves07@escola.pr.gov.br
+
+@mariaesa2
+![](https://media4.giphy.com/media/sdE3nPpHFocSgzvoS3/giphy.gif?cid=6c09b9525kxcitcwr2ax030cuicvloqdyg8odtlkydpkcjoh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 <!--
 **mariaesa2/mariaesa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
